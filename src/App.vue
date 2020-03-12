@@ -132,7 +132,7 @@ section {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  width: 100vw;
+  width: 100%;
   border: .5rem solid white;
   border-radius: .5rem;
 }
